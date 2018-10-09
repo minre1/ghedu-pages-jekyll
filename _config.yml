@@ -1,0 +1,17 @@
+title: Hackathon Demo
+
+email: m.inreiter@htl-perg.ac.at
+
+description: > # this means to ignore newlines until "baseurl:"
+
+  Sharpen your coding skills in this hackathon.
+
+baseurl: ""
+
+url: "https://minre1.github.io/ghedu-pages-jekyll"
+
+twitter_username: nicht vorhanden
+
+github_username:  minre1
+
+baseurl: /ghedu-pages-jekyll
